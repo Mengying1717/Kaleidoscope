@@ -1,0 +1,31 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather",serif
+}
+
+h1{
+  font-size: 36px;
+  font-family: 'Sacramento', Fantasy;
+  color: #eb2f96;
+}
+p{
+  font-size: 16px;
+  font-family: 'Sacramento', Fantasy;
+  color: #ffadd2;
+}
+.icon{
+  width: 60px;
+  height: 60px;
+  float: left;
+  margin-right: -400px;
+  margin-left: 350px;
+}
+
+.top-container{
+  padding-top: 20px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  line-height: 20px;
+}
